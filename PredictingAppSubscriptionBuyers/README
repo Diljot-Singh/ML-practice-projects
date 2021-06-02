@@ -1,0 +1,3 @@
+The data is stored in the appdata10.csv file and top_screens.csv represents the screens vieewed by a user
+EDA.ipynb includes code for data analysis and creates a new file new_appdata10.csv on execution
+Model.ipynb uses the newly created file to analyze the results and make predictions
