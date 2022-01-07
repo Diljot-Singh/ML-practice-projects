@@ -4,7 +4,7 @@ List of projects in this repository
 
 1) Breast Cancer prediction ( Healthcare) : Folder : PredictingBreastCancer
 
-2) Predicting App Subscription Buyers : Folder : PredictingAppSubscriptionBuyers
+2) Predicting Application Subscription Buyers : Folder : PredictingAppSubscriptionBuyers
 
 3) Predicting likelihood of churn in Subscription Products
 - Domain : Heatlhcare
