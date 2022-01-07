@@ -1,1 +1,13 @@
-   ewfew
+In this usecase, we try to predict if the cancer diagnosis of a patient is benign or malignant.
+To solve the problem, we start by visualizing the data and checking for any irregularitites. Later, we train our model. Lastly, we try to imprve the performance of the model using grid search and standardization.
+
+The following steps are followed:
+1) Import data and libraries.
+2) Plot target value corresponding to each feature, to check which feature is important for the tarhet and which one is random.
+3) Plot pairplots using SNS library to see the general trend.
+4) Plot correlation plot
+5) Check for data balance / imbalance
+6) Apply model to see the performance
+7) Apply standardization to the data and check model's performance
+7) Apply Grid-Search to find best estimator
+
