@@ -1,6 +1,6 @@
 # ML-practice-projects
 
-List of practice projects and datasets:
+List of projects in this repository
 
 1) Breast Cancer prediction
 2) Predicting App Subscription Buyers
