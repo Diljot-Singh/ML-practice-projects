@@ -2,7 +2,7 @@
 
 List of projects in this repository
 
-1) Breast Cancer prediction ( Healthcare) : Folder : PredictingBreastCancer
+1) Breast Cancer prediction ( Healthcare ) : Folder : PredictingBreastCancer
 
 2) Predicting Application Subscription Buyers : Folder : PredictingAppSubscriptionBuyers
 
