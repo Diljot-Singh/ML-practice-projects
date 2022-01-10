@@ -1,1 +1,6 @@
-This projects tries to predict the likelihood for a loan applicant to complete the e-signing phase of the application
+In this problem, we try to predict the likelihood for a loan applicant to complete the e-signing phase of the application
+
+- Dataset : churn_data.csv
+
+In the first part, EDA.ipynb, we perform the data analysis and do feature engineering.
+Finally, in Model.ipynb, we use the clean data to make predictions
