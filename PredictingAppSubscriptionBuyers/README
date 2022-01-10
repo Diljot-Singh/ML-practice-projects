@@ -1,6 +1,6 @@
 In this problem, we try to predict a mobile application subscription buyers using a logistic regression model based on the time spent using the application and the screen visited.
 
-- Datset : appdata10.csv
+- Dataset : appdata10.csv
            top_screens.csv (represents the screens viewed by a user)
 
 In the first part, EDA.ipynb, we perform the data analysis and do feature engineering. The engineered and cleaned data is added to new_appdat10.csv file upon execution.
