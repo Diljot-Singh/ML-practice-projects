@@ -10,7 +10,7 @@ List of projects in this repository
 
 4) Predicting likelihood of E-Signing Loan application :  Folder - E-SigningLoan
  
-5) Predicting Google Stock Price Using LSTM's : Folder - 
+5) Predicting Google Stock Price Using LSTM's : Folder - RNN_LSTM_Predicting_Google_Stock_Price
 
 6) Predicintg Credit Card Fraudulent transactions using Self Organising Maps(SOM) (Unsupervised Learning) : Folder - 
 
