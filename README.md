@@ -13,3 +13,5 @@ List of projects in this repository
 5) Predicting Google Stock Price Using LSTM's : Folder - RNN_LSTM_Predicting_Google_Stock_Price
 
 6) Movie Recommendations Using Auto Encoders (Unsupervised Learning) : Folder - MovieRecommendationUsingAutoEncoders
+
+7) Associate Rule Learning on Market Basket : Folder - Associate_Rule_Learning_on_Market_Basket
